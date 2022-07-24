@@ -1,7 +1,7 @@
 {
       "name": "Natsuki",
       "description": "An Anime themed Telegram group management bot Natsuki.",
-      "logo": "https://telegra.ph/file/c9a53e4436c3309a5a5fd.jpg",
+      "logo": "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Ankivector"
       ],   
-   "repository": "https://github.com/Sadew451/Natsuki",
+   "repository": "https://github.com/Agunivers/Natsuki",
    "addons": [
       {
          "options": {
